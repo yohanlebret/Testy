@@ -1,4 +1,4 @@
 Testy
 =====
 
-Create custom test to learn a language
+Create custom tests to learn a language
